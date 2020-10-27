@@ -1,0 +1,20 @@
+{
+    "Author": "Joachim Stapelfeldt",
+    "ContentSize": 3163,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/install-new-relic-infrastructure-client/master/Install-NewRelicInfrastructure.ps1",
+    "DownloadCount": 629,
+    "Id": "Install-New-Relic-af564f19",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 296,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-8-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "DescriptionThis PowerShell automation runbook installs the New Relic Infrastructure client and enables it with a provided key..\u00a0The runbook can install the client on a single computer or multiple. All you need to do, is provide a list commaseperated liste with names of the comput",
+    "Title": "Install New Relic Infrastructure client",
+    "UpdatedDate": "2017-8-28T00:00:00",
+    "Url": "https://github.com/azureautomation/install-new-relic-infrastructure-client",
+    "UserTags": "Microsoft Azure, Powershell, Azure Automation"
+}
